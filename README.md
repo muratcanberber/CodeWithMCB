@@ -1,1 +1,1 @@
-Hello
+This file can be run bit bun or deno runtime
